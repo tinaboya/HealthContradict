@@ -1,0 +1,116 @@
+{"topic_id": 1, "description": "Can cranberries prevent urinary tract infections?", "query_stance": "no"}
+{"topic_id": 3, "description": "Can acupuncture be effective for people with epilepsy?", "query_stance": "no"}
+{"topic_id": 5, "description": "Can acupuncture prevent migraines?", "query_stance": "yes"}
+{"topic_id": 6, "description": "Is amygdalin or laetrile an effective cancer treatment?", "query_stance": "no"}
+{"topic_id": 7, "description": "Can aspirin improve the lives of people with vascular dementia?", "query_stance": "no"}
+{"topic_id": 8, "description": "Can melatonin be used to reduce jet lag?", "query_stance": "yes"}
+{"topic_id": 11, "description": "Can exercises relieve lower back pain?", "query_stance": "yes"}
+{"topic_id": 12, "description": "Is male circumcision helpful in reducing heterosexual men's chances of getting HIV?", "query_stance": "yes"}
+{"topic_id": 13, "description": "Find documents that discuss using antidepressants for helping to manage or relieve lower back pain.", "query_stance": "no"}
+{"topic_id": 16, "description": "Can magnesium prevent muscle cramps?", "query_stance": "no"}
+{"topic_id": 17, "description": "Can lumbar supports treat or prevent lower back pain?", "query_stance": "no"}
+{"topic_id": 18, "description": "Can electrical stimulation devices treat male urinary incontinence?", "query_stance": "no"}
+{"topic_id": 19, "description": "Can honey offer relief from cough symptoms in children?", "query_stance": "yes"}
+{"topic_id": 20, "description": "Can steroids be used as a treatment for spinal cord injury?", "query_stance": "yes"}
+{"topic_id": 22, "description": "How effective is hydroxyzine (also known as Atarax) for treating generalized anxiety disorder?", "query_stance": "no"}
+{"topic_id": 27, "description": "Can antibiotics be used as a treatment for wet cough (productive or chesty cough) in children?", "query_stance": "yes"}
+{"topic_id": 28, "description": "Can antibiotics be used as a treatment for whooping cough (pertussis)?", "query_stance": "yes"}
+{"topic_id": 29, "description": "Can antibiotics be use to treat community acquired pneumonia in children?", "query_stance": "yes"}
+{"topic_id": 32, "description": "Can ginkgo biloba treat tinnitus?", "query_stance": "no"}
+{"topic_id": 33, "description": "Does hypnotherapy help people quit smoking?", "query_stance": "no"}
+{"topic_id": 34, "description": "How effective are pelvic floor exercises for treating female incontinence?", "query_stance": "yes"}
+{"topic_id": 36, "description": "Are dental sealants helpful in preventing tooth decay?", "query_stance": "yes"}
+{"topic_id": 37, "description": "Can taking laxatives help with hemorrhoids?", "query_stance": "yes"}
+{"topic_id": 38, "description": "Is lumbar traction an effective treatment for lower back pain?", "query_stance": "no"}
+{"topic_id": 39, "description": "Can muscle relaxants be used to relieve back pain?", "query_stance": "yes"}
+{"topic_id": 40, "description": "Can cinnamon help people with diabetes?", "query_stance": "no"}
+{"topic_id": 41, "description": "Can benzos (benzodiazepines) help with alcohol withdrawal?", "query_stance": "yes"}
+{"topic_id": 42, "description": "Are probiotics an effective treatment for eczema?", "query_stance": "no"}
+{"topic_id": 44, "description": "Can vitamins help manage epilepsy?", "query_stance": "no"}
+{"topic_id": 45, "description": "Can caffeine help people with asthma?", "query_stance": "yes"}
+{"topic_id": 47, "description": "Can insoles treat back pain?", "query_stance": "no"}
+{"topic_id": 49, "description": "Is sulfasalazine an effective treatment for rheumatoid arthritis?", "query_stance": "yes"}
+{"topic_id": 50, "description": "Is bariatric surgery effective for obesity?", "query_stance": "yes"}
+{"topic_id": 51, "description": "Can dehumidifiers be used to control asthma?", "query_stance": "no"}
+{"topic_id": "101", "description": "Will wearing an ankle brace help heal achilles tendonitis?", "query_stance": "no"}
+{"topic_id": "102", "description": "Is a tepid sponge bath a good way to reduce fever in children?", "query_stance": "no"}
+{"topic_id": "103", "description": "Can folic acid help improve cognition and treat dementia?", "query_stance": "no"}
+{"topic_id": "104", "description": "Does duct tape work for wart removal?", "query_stance": "no"}
+{"topic_id": "105", "description": "Should I apply ice to a burn?", "query_stance": "no"}
+{"topic_id": "106", "description": "Can vitamin b12 and sun exposure together help treat vitiligo?", "query_stance": "yes"}
+{"topic_id": "107", "description": "Does yoga improve the management of asthma?", "query_stance": "yes"}
+{"topic_id": "108", "description": "Is starving a fever effective?", "query_stance": "no"}
+{"topic_id": "109", "description": "Does selenium help prevent cancer?", "query_stance": "no"}
+{"topic_id": "110", "description": "Will taking birth control pills treat an ovarian cyst?", "query_stance": "no"}
+{"topic_id": "111", "description": "Will taking zinc supplements improve pregnancy? ", "query_stance": "no"}
+{"topic_id": "112", "description": "Can evening primrose oil help treat eczema?", "query_stance": "no"}
+{"topic_id": "114", "description": "Can applying vitamin E cream remove skin scars?", "query_stance": "no"}
+{"topic_id": "115", "description": "Can magnesium help prevent migraine?", "query_stance": "yes"}
+{"topic_id": "117", "description": "Can fermented milk help mitigate high blood pressure?", "query_stance": "no"}
+{"topic_id": "118", "description": "Can dupixent treat eczema?", "query_stance": "yes"}
+{"topic_id": "120", "description": "Can the drug Imitrex (sumatriptan) treat acute migraine attacks?", "query_stance": "yes"}
+{"topic_id": "121", "description": "Will buying a light therapy lamp help treat depression? ", "query_stance": "yes"}
+{"topic_id": "122", "description": "Does Aleve relieve migraine headaches?", "query_stance": "no"}
+{"topic_id": "128", "description": "Does steam from a shower help croup?", "query_stance": "no"}
+{"topic_id": "129", "description": "Can minoxidil treat hair loss?", "query_stance": "yes"}
+{"topic_id": "131", "description": "Can l-theanine supplements reduce stress and anxiety?", "query_stance": "yes"}
+{"topic_id": "132", "description": "Does inhaling steam help treat common cold?", "query_stance": "no"}
+{"topic_id": "134", "description": "Can I remove a tick by covering it with Vaseline?", "query_stance": "no"}
+{"topic_id": "136", "description": "Can eating dates help manage iron deficiency anemia?", "query_stance": "yes"}
+{"topic_id": "137", "description": "Will drinking vinegar dissolve a stuck fish bone?", "query_stance": "no"}
+{"topic_id": "139", "description": "Can copper bracelets reduce the pain of arthritis?", "query_stance": "no"}
+{"topic_id": "140", "description": "Can fungal creams treat athlete's foot?", "query_stance": "yes"}
+{"topic_id": "143", "description": "Does Tylenol manage the symptoms of osteoarthritis? ", "query_stance": "yes"}
+{"topic_id": "144", "description": "Can music therapy help manage depression?", "query_stance": "yes"}
+{"topic_id": "146", "description": "Can vitamin D supplements improve the management of asthma?", "query_stance": "yes"}
+{"topic_id": "149", "description": "Will at-home exercises manage hip osteoarthritis pain?", "query_stance": "yes"}
+{"topic_id": "151", "description": "Do tea bags help to clot blood in pulled teeth?", "query_stance": "yes"}
+{"topic_id": "152", "description": "Can crystals heal?", "query_stance": "no"}
+{"topic_id": "153", "description": "Can collagen supplements cure osteoarthritis?", "query_stance": "no"}
+{"topic_id": "154", "description": "Can cell phones cause cancer?", "query_stance": "no"}
+{"topic_id": "155", "description": "Can you use WD-40 for arthritis?", "query_stance": "no"}
+{"topic_id": "156", "description": "Can mosquito bites make you sick?", "query_stance": "yes"}
+{"topic_id": "157", "description": "Can cancer be inherited?", "query_stance": "yes"}
+{"topic_id": "158", "description": "Are vaccines linked to autism?", "query_stance": "no"}
+{"topic_id": "159", "description": "Can baking soda help to cure cancer?", "query_stance": "no"}
+{"topic_id": "160", "description": "Are squats bad for knees?", "query_stance": "no"}
+{"topic_id": "161", "description": "Do ACE inhibitors typically cause erectile dysfunction?", "query_stance": "no"}
+{"topic_id": "162", "description": "Is morphine addictive?", "query_stance": "yes"}
+{"topic_id": "163", "description": "Can fruit juice increase the risk of diabetes?", "query_stance": "yes"}
+{"topic_id": "164", "description": "Do magnetic wrist straps help with arthritis?", "query_stance": "no"}
+{"topic_id": "165", "description": "Are sit ups bad for you?", "query_stance": "yes"}
+{"topic_id": "166", "description": "Can a speech problem be caused by right handed person being forced to left hand?", "query_stance": "yes"}
+{"topic_id": "167", "description": "Are there health benefits to drinking your own urine?", "query_stance": "no"}
+{"topic_id": "168", "description": "Is pink salt good for you?", "query_stance": "no"}
+{"topic_id": "169", "description": "Can massage get rid of cellulite?", "query_stance": "no"}
+{"topic_id": "170", "description": "Can fish oil improve your cholesterol?", "query_stance": "no"}
+{"topic_id": "171", "description": "Can you become addicted to weed?", "query_stance": "yes"}
+{"topic_id": "172", "description": "Can vegan diets be healthy?", "query_stance": "yes"}
+{"topic_id": "173", "description": "Is hydroquinone banned in Europe?", "query_stance": "yes"}
+{"topic_id": "174", "description": "Do men get UTI infections?", "query_stance": "yes"}
+{"topic_id": "175", "description": "Are carrots good for your eyes?", "query_stance": "yes"}
+{"topic_id": "176", "description": "Is methanol poisonous?", "query_stance": "yes"}
+{"topic_id": "177", "description": "Can an MRI harm my baby?", "query_stance": "no"}
+{"topic_id": "178", "description": "Can exercise lower cholesterol?", "query_stance": "yes"}
+{"topic_id": "179", "description": "Can chewing gum help lose weight?", "query_stance": "no"}
+{"topic_id": "180", "description": "Can sunglasses help prevent cataracts?", "query_stance": "yes"}
+{"topic_id": "181", "description": "Did AIDS come from chimps?", "query_stance": "yes"}
+{"topic_id": "182", "description": "Is too much water bad for you?", "query_stance": "yes"}
+{"topic_id": "183", "description": "Can HIV be transmitted through sweat?", "query_stance": "no"}
+{"topic_id": "184", "description": "Do Himalayan salt lamps have health benefits?", "query_stance": "no"}
+{"topic_id": "185", "description": "Can a woman get pregnant while breastfeeding?", "query_stance": "yes"}
+{"topic_id": "186", "description": "Can statins cause permanent cognitive impairment?", "query_stance": "no"}
+{"topic_id": "187", "description": "Does Vitamin C prevent colds?", "query_stance": "no"}
+{"topic_id": "188", "description": "Can coffee help you lose weight?", "query_stance": "yes"}
+{"topic_id": "189", "description": "Does drinking lemon water help with belly fat?", "query_stance": "no"}
+{"topic_id": "190", "description": "Does deli meat increase your risk of colon cancer?", "query_stance": "yes"}
+{"topic_id": "191", "description": "Are skin tags contagious?", "query_stance": "no"}
+{"topic_id": "192", "description": "Can oil pulling heal cavities?", "query_stance": "no"}
+{"topic_id": "193", "description": "Does a high fiber diet help with hemorrhoids?", "query_stance": "yes"}
+{"topic_id": "194", "description": "Can grapefruit interfere with medication?", "query_stance": "yes"}
+{"topic_id": "195", "description": "Can vape pens be harmful?", "query_stance": "yes"}
+{"topic_id": "196", "description": "Do bananas increase the risk of diabetes?", "query_stance": "no"}
+{"topic_id": "197", "description": "Is wifi harmful for health?", "query_stance": "no"}
+{"topic_id": "198", "description": "Does drinking apple cider vinegar help lose weight?", "query_stance": "no"}
+{"topic_id": "199", "description": "Does ginger help with nausea?", "query_stance": "yes"}
+{"topic_id": "200", "description": "Can a cold sore cause genital herpes?", "query_stance": "yes"}
