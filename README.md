@@ -59,3 +59,8 @@ Evaluates model predictions using accuracy and F1 metrics.
 3. Run `a3_create_prompt.py` to generate prompts.
 4. Run `b1_inference.py` to get model responses.
 5. Run `b2_eval_acc.py` to evaluate results.
+
+## Contact
+
+Should you have any inquiries, feel free to contact us at boya.zhang@unige.ch
+
