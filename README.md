@@ -2,7 +2,7 @@
 
 HealthContradict is a dataset for assessing how language models use contextual information to answer health questions, especially in the presence of conflicting contexts.
 
-[https://arxiv.org/abs/2512.02299]
+[https://www.nature.com/articles/s41746-025-02336-0]
 
 ## Project Structure
 
